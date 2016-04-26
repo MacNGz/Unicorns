@@ -1,0 +1,32 @@
+body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background: url(http://www.technobuffalo.com/wp-content/uploads/2016/03/unicorn-06.jpg);
+  background-size: cover;
+}
+
+h1, h2 {
+  display: inline-block;
+  background: #fff;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+span {
+  background: #fd0;
+}
+
+.button {
+  font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  font-size: 25px;
+  background: #ffffff;
+  display: inline-block;
+  border: 2px solid #000000;
+  text-decoration: none;
+  padding: 25px;
+  
+}
