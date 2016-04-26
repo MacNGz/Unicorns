@@ -20,13 +20,17 @@ span {
   background: #fd0;
 }
 
+
 .button {
   font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
   font-size: 25px;
   background: #ffffff;
   display: inline-block;
   border: 2px solid #000000;
-  text-decoration: none;
+  border-radius: 15px;
   padding: 25px;
-  
+}
+
+a.button {
+  text-decoration: none;
 }
